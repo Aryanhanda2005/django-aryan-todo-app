@@ -1,0 +1,108 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #004953, #002f2f); /* Midnight Green gradient */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    color: white;
+}
+
+.signup-login {
+    width: 100%;
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.signup-login h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #f0f0f0;
+}
+
+.signup-box {
+    background-color: rosybrown;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.4);
+    margin-bottom: 30px;
+}
+
+.signup-box .heading {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #2c2c2c;
+}
+
+.signup-box input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+}
+
+.signup-box input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    background-color: #004953; /* Midnight Green button */
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.signup-box input[type="submit"]:hover {
+    background-color: #003d44; /* Darker Midnight Green */
+}
+
+.task-list {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.Todo {
+    background-color: rosybrown;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Todo h5 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2c2c2c;
+}
+
+.Todo p {
+    flex: 1;
+    margin: 0 15px;
+    font-size: 15px;
+    color: #2c2c2c;
+}
+
+.Todo div a {
+    margin-left: 10px;
+    color: #004953;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.Todo div a:hover {
+    color: #003d44;
+}
