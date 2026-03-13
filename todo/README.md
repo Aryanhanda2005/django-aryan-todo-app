@@ -14,11 +14,11 @@ A simple todo app built with Django, HTML, and CSS.
 ![Login page.](screenshots/login.png)
 
 ### signup
-[signup page .](screenshots/signup.png)
+[Lignup page.](screenshots/signup.png)
 
 
 ### todo
-[todo page . ](screenshots/todo.png)
+[Todo page. ](screenshots/todo.png)
 
 
 ## Installation
