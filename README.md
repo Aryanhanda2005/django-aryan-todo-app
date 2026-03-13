@@ -22,9 +22,6 @@ A simple todo app built with **Django**, **HTML**, and **CSS**.
 ### Todo List
 ![Todo](todo/screenshots/todo.png)
 
-### Edit Task
-![Edit](todo/screenshots/edit.png)
-
 ---
 
 ## ⚙️ Installation
