@@ -1,25 +1,35 @@
 # Django Todo App
 
-A simple todo app built with Django, HTML, and CSS.
+A simple todo app built with **Django**, **HTML**, and **CSS**.
 
-## Features
-- Add, edit, delete tasks
+---
+
+## ✨ Features
+- Add, edit, and delete tasks
 - Mark tasks as complete
-- Responsive UI
+- Responsive UI for desktop and mobile
 
+---
 
-## screenshots
+## 📸 Screenshots
 
-### login
-![Login page](screenshots/login.png)
-### signup
-![Signup page](screenshots/signup.png)
-### todo
-![Todo page](screenshots/todo.png)
+### Login
+![Login](todo/screenshots/login.png)
 
+### Signup
+![Signup](todo/screenshots/signup.png)
 
-## Installation
-```bash
-Clone the repository from GitHub using the following command:
-cd todo-app
-python manage.py runserver
+### Todo List
+![Todo](todo/screenshots/todo.png)
+
+### Edit Task
+![Edit](todo/screenshots/edit.png)
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/todo.git
+   cd todo
