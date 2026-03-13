@@ -14,7 +14,7 @@ A simple todo app built with Django, HTML, and CSS.
 ![Login page.](screenshots/login.png)
 
 ### signup
-[signup page .](screenshots/signup.pngpng)
+[signup page .](screenshots/signup.png)
 
 
 ### todo
