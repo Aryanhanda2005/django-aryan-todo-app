@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+*.DS_Store
+Thumbs.db
+
+# Keep screenshots and README visible
+!screenshots/
+!README.md
